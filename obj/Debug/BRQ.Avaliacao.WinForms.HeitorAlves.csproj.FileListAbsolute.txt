@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\bin\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.exe.config
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\bin\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.exe
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\bin\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.pdb
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\obj\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\obj\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.Properties.Resources.resources
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\obj\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\obj\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\obj\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.exe
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\obj\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.pdb
+C:\Users\Usuario\source\repos\BRQ.Avaliacao.WinForms.HeitorAlves\BRQ.Avaliacao.WinForms.HeitorAlves\obj\Debug\BRQ.Avaliacao.WinForms.HeitorAlves.FrmLeitorArquivos.resources
